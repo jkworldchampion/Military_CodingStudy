@@ -35,4 +35,8 @@ public class DroneManager {
     public Drone getDrone(int index){
         return droneList.get(index);
     }
+    
+    public ArrayList getDroneList(){
+        return droneList;
+    }
 }
