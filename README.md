@@ -8,7 +8,7 @@
 라고 생각했지만, 조금더 CS기본기 중심으로 공부를 해보자!
 
 1. 컴퓨터 구조
-  : 이건 http://www.cs.cmu.edu/afs/cs/academic/class/15213-f16/www/schedule.html여기를 통해 공부를 할것이다. 
+  : 이건 http://www.cs.cmu.edu/afs/cs/academic/class/15213-f16/www/schedule.html여기를 통해 공부를 할것이다. (~2022.07.31)
   
 2. 운영체제
   : 사실 이건 C를 먼저하고 공부하는게 좋다. 그래서 C를 하고 난 뒤에 해보자!
