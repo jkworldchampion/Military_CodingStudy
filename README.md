@@ -9,6 +9,7 @@
 
 1. 컴퓨터 구조
   : 이건 http://www.cs.cmu.edu/afs/cs/academic/class/15213-f16/www/schedule.html여기를 통해 공부를 할것이다. (~2022.07.31)
+  였지만, 영어강의가 힘들어서,,, 그냥 C를 공부한 다음 Malloc lab을 풀어보기로 했다.
   
 2. 운영체제
   : 사실 이건 C를 먼저하고 공부하는게 좋다. 그래서 C를 하고 난 뒤에 해보자!
