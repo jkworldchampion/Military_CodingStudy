@@ -20,5 +20,7 @@
 를 하려 했지만, 갑자기 만들고 싶은게 생겨서 택시 공유 웹을 만들어보았다.(-> We Need Friends)
 
 이번엔 백엔드를 스윽 해보려고 한다.
-백엔드 마스터플랜!!
+백엔드 마스터플랜!!  
+백엔드 플랜의 Notion링크
+https://holistic-vinca-893.notion.site/BMP-7f02fb957132457bb7bfe40f4f1eb6c7
 
