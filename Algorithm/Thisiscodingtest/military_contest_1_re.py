@@ -31,4 +31,4 @@ def where_can_go(k, now, boxes):
 print(solution(20, 18, [1]))
 print()
 print(solution(12,3,[2,3,6,7,8,10,11]))
-print(solution(10,1,[9,8,7,6,5,4,3,2,1]))  #여기서 잘못됨
+print(solution(10,1,[9,8,7,6,5,4,3,2,1]))  #성공
