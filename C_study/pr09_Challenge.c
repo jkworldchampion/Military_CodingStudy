@@ -26,7 +26,7 @@ void swap(double *pa, double *pb){
 
 void line_up(double *maxp, double *midp, double *minp){
 	if (*midp < *minp){
-		swap(&*midp, &*minp);
+		swap(&*midp, &*minp);   // 여기가 이렇게 되는 것이 조금더 바람직 하지 않을까?
 	}
 	if (*maxp < *minp){
 		swap(&*maxp, &*minp);
