@@ -24,3 +24,4 @@
 백엔드 플랜의 Notion링크
 https://holistic-vinca-893.notion.site/BMP-7f02fb957132457bb7bfe40f4f1eb6c7
 
+그리고 데이터 분석도 해야징!!
